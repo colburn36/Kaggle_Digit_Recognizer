@@ -114,7 +114,7 @@ PCA.pixels.full.var.pro<-PCA.pixels.full.var/sum(PCA.pixels.full.var)
 plot(cumsum(PCA.pixels.full.var.pro[1:200]),xlab="Principle Component",ylab="Cumulative proportion of variance explained")
 ```
 
-![](Digit_Recognizer_files/figure-html/PCA ploting of variance explained-1.png)<!-- -->
+![](Digit_Recognizer_files/figure-html/PCA_ploting_of_variance_explained-1.png)<!-- -->
 
 
 ```r
